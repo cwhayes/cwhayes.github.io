@@ -11,42 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in Astronomy and Astrophysics, The Ohio State University, 2020 (expected)
+* **M.Sc., Physics and Astronomy, York University**
+* **Date:** 2022 (Expected)
 
-Work experience
+* **B.S., Astronomy and Astrophysics, The Ohio State University**
+* **Date:** May 2020
+* **Senior Thesis:** Spectroscopic Confirmation of Four Ultra-Diffuse Galaxy Candidates
+* **Advisor*:** Dr. Johnny Greco
+
+Employment
 ======
-* Summer 2019: Research Assistant
-  * The Ohio State University
-  * Duties included: 
-  * Supervisor: Dr. Johnny Greco
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Research Assistant**, The Ohio State University (May 2019 - May 2020)
+* **Instructional Assistant**, The Ohio State University (August - December 2019)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Vice President, Astronomical Society at Ohio State (2019-20)
